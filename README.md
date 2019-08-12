@@ -7,11 +7,11 @@
  Techniques being learnt include but not limited to:
  - Lighting techniques
  - Geometry and LOD optimisation
- - Occulsion mapping
+ - Occlusion mapping
  - Guardian Boundary as game mechanic
  - VR enhanced game mechanics - such as Holstering or Player involved crafting.
  
- The various Scenes in this project lead from a central Scene - a Dev Hub - each representing a seperate testing space for a chosen development area. 
+ The various Scenes in this project lead from a central Scene - a Dev Hub - each representing a separate testing space for a chosen development area. 
  
  Current Scenes in use:
  - Dev Hub
